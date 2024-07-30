@@ -32,7 +32,7 @@ qtconsole==4.1.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
-tensorflow==0.6.0
+tensorflow==2.12.1
 terminado==0.6
 tornado==4.3
 traitlets==4.1.0
